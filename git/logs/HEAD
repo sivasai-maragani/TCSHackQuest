@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 27d954e03a20c77d95f320f87d7a28e376b615ed kali <kali@kali.(none)> 1668664058 -0500	clone: from https://github.com/carlospolop/PEASS-ng.git
+27d954e03a20c77d95f320f87d7a28e376b615ed 48eb277a1726162c8b4acb2c453666a69a040c76 hackzzdogs <hackzz@tcshq.com> 1668664212 -0500	commit: Update TODO
+48eb277a1726162c8b4acb2c453666a69a040c76 c32eb7f7bd1b1135da9f321686e44d4e2cfe08e6 Carlos Polop <carlospolop@gmail.com> 1668664583 -0500	commit: Updated linux banner
+c32eb7f7bd1b1135da9f321686e44d4e2cfe08e6 c93bb0d0c9869c66bd70a54680c8dcdcf5312383 hackzzdogs <hackzz@tcshq.com> 1668664760 -0500	commit: Fork : Updated XML path in obfuscated payload
+c93bb0d0c9869c66bd70a54680c8dcdcf5312383 3d42e1cec02820f270ba8e6921de6081f4333421 hackzzdogs <hackzz@tcshq.com> 1668665024 -0500	commit: Added linenum script in this repo
+3d42e1cec02820f270ba8e6921de6081f4333421 7faf464465c9b91c4f3b38234fba29c7688321a4 hackzzdogs <hackzz@tcshq.com> 1668665101 -0500	commit: Removed the local file which was added accidentally
+7faf464465c9b91c4f3b38234fba29c7688321a4 8b79265903a15ca65b83d31007cb8d3d77629eef hackzzdogs <hackzz@tcshq.com> 1668665185 -0500	commit: Updated readme for linenum
+8b79265903a15ca65b83d31007cb8d3d77629eef af43524340942074c24c1410b44de79781cf062e hackzzdogs <hackzz@tcshq.com> 1668665265 -0500	commit: Added changlog
+af43524340942074c24c1410b44de79781cf062e f8d68ea6874e42a722469642c7006ce828ae9640 hackzzdogs <hackzz@tcshq.com> 1668665296 -0500	commit: Removed the linux banner
+f8d68ea6874e42a722469642c7006ce828ae9640 b6ae9ff50623b2ff033125ca833c51d999e18ce2 hackzzdogs <hackzz@tcshq.com> 1668665469 -0500	commit: Removed winPeas and metasploit modules
